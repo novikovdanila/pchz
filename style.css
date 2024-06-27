@@ -1,5 +1,4 @@
 html, body{
-    color:brown;
     margin: 0;
     padding: 0;
     background-color: #0B0718;
@@ -8,7 +7,6 @@ html, body{
 
 .section-1{
      background: url("bg.jpg") no-repeat;
-    /* height: auto; */
     height: 1000px;
 }
 
