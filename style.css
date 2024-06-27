@@ -13,8 +13,9 @@ html, body{
 }
 
 .container{
+    display: flex;
+    justify-content: center;
     max-width: 1704px;
-    height: 100%;
     margin: 0 auto;
     padding-top: 124px;
     padding-left: 20px;
